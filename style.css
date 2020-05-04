@@ -47,15 +47,37 @@ body{
 			color: white;
 			font-size: 10px;
 		}
-		.typographi li:hover{
+		/*.typographi li:hover{
 			padding:3px;
             margin: 0px 5px;
 			border:1px solid black;
 			border-radius: 50%;
-			background-color: blue;
+			background-color: red;
 			color: white;
 			transition: 0.5;
+		}*/
+		.typographi li.hover{
+
 		}
+		.typographi{
+           	padding-left: 90px;
+           	padding-bottom: 10px;
+           }
+           .youtube_icon{
+           	background-color: #c4302b;
+           }
+           .facebook_icon{
+           	background-color: #3b5998;
+           }
+           .instagram_icon{
+           	background-color: #E1306C;
+           }
+           .linkedin_icon{
+           	background-color: #0e76a8;
+           }
+           .twitter_icon{
+           	background-color: #00acee;
+           }
 
       /*end header*/
 
@@ -212,7 +234,7 @@ body{
         .menu nav ul li a.active
 		{
 			color: #fff;
-			background-color: #55efc4;
+			background-color: yellowgreen;
 			border-radius: 10px;
 		}
 		.menu-toggle{
@@ -317,8 +339,8 @@ body{
 			width:100%;
 		}
 		.text1 p{
-			padding:0 3px;
-			font-size: 13px;
+			padding:0 0px;
+			font-size: 0px;
 		}
 
 		.text h1{
@@ -334,8 +356,23 @@ body{
            }
 
            .typographi{
-           	padding-left: 60px;
+           	padding-left: 90px;
            	padding-bottom: 10px;
+           }
+           .youtube_icon{
+           	background-color: #c4302b;
+           }
+           .facebook_icon{
+           	background-color: #3b5998;
+           }
+           .instagram_icon{
+           	background-color: #E1306C;
+           }
+           .linkedin_icon{
+           	background-color: #0e76a8;
+           }
+           .twitter_icon{
+           	background-color: #00acee;
            }
            .menu{
            	top:58px;
