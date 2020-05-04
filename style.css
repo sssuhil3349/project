@@ -84,7 +84,7 @@ body{
 }
 .text h1{
 	font-size: 100px;
-	margin-top: 60px;
+	margin-top: 80px;
 	color: #f1c40f;
 	  /*text-shadow: 5px 5px #FF0000;*/
 	font-weight: 700;
@@ -286,11 +286,11 @@ body{
 
 .text h1{
 
-		font-size: 40px;
+		font-size: 45px;
 		letter-spacing: 2px!important;
 	}
 	.text p{
-		font-size: 20px;
+		font-size: 25px;
 	}
 	
 	.logo img{
