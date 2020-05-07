@@ -105,7 +105,8 @@ body{
 .text h1{
 	font-size: 100px;
 	margin-top: 80px;
-	color: #f1c40f;
+/* 	color: #f1c40f; */
+	color: white;
 	  /*text-shadow: 5px 5px #FF0000;*/
 	font-weight: 700;
 	padding-bottom: 10px;
